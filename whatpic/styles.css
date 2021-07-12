@@ -1,8 +1,12 @@
-html, body {height:100%; overflow:hidden}
+html, body {
+	height:100%; 
+	overflow:hidden
+}
 
 body {
 	
 }
+
 h1 {
 	
 }
@@ -19,13 +23,8 @@ p {
 	height:50vh;
 }
 
-.center {
-  text-align: center;
-  color: red;
-}
-
 .main_wrap {
-	background-color: powderblue;
+	background-color: #efefef;
 	height:50%;	
 	text-align: center;
 }

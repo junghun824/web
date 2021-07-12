@@ -1,0 +1,34 @@
+body {
+	
+}
+h1 {
+	
+}
+p {	
+	
+}
+
+.sample {
+	background-color: powderblue;
+	color: blue;
+	margin: 0 auto;
+	text-align: center;
+	width:100%;
+	height:50vh;
+}
+
+.center {
+  text-align: center;
+  color: red;
+}
+
+.main_wrap {
+	background-color: powderblue;
+	height:50vh;
+	text-align: center;
+}
+
+.main_image {
+	background-color: red;
+	height:100%;
+}

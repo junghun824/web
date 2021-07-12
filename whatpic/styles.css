@@ -25,6 +25,7 @@ p {
 .main_wrap {
 	background-color: powderblue;
 	height:50vh;
+	width:100%;
 	text-align: center;
 }
 
